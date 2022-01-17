@@ -11,4 +11,4 @@ las plantillas que tenemos delante de la cámara hasta que reconozca todas las c
 la ventana y se nos mostrará la captura que se ha realizado con la serie ya calculada dentro de las celdas vacías.
 
 ## Realizado por
-  * [Francisco Chanivet]
+  * Francisco Chanivet
